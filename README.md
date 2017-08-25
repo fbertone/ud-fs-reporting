@@ -18,6 +18,7 @@ The tool was tested with with Python v. 2.7.
 
 You can run the tool calling the python interpreter:
 > python reporting.py
+
 or launching directly the script:
 > ./reporting.py
 
